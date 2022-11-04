@@ -1,0 +1,1 @@
+<a href="https://velog.io/@kyeongwxx" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=로고&logoColor=000000"/></a>
