@@ -9,7 +9,6 @@ kyeongwxx - @Kyeongwoo Kim
 <h3>contacts</h3>
 <a href="https://kyeongwxx.gitbook.io/til/" target="_blank"><img src="https://img.shields.io/badge/DevNote-3884FF?style=flat-square&logo=GitBook&logoColor=white"/></a>
 <a href="mailto:kyeongwxx@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.notion.so/40684647f91341edbaaa4f2acc857926" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <h3>languages & skills</h3>
 <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></span>
